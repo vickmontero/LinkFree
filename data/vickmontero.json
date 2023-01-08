@@ -1,0 +1,24 @@
+{
+  "name": "Amah Victor",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Web Developer",
+  "avatar": "https://github.com/vickmontero.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/KingVooa",
+      "icon": "FaTwitter"
+    },
+     {
+      "name": "Follow me on Linkedin",
+      "url": "https://www.linkedin.com/in/amahvictor/",
+      "icon": "FaLinkedin"
+    },
+     {
+      "name": "Follow me on Facebook",
+      "url": "https://web.facebook.com/victoramah.o/",
+      "icon": "FaFacebook"
+    }
+  ]
+}
